@@ -1,0 +1,7 @@
+{
+    "error": {
+        "book": {
+            "price_invalid": "Invalid Price it should be greater than 0 and less than 99999"
+        }
+    }
+}
